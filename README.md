@@ -29,13 +29,28 @@ I love turning complex marketing problems into **simple automated systems that r
 
 ---
 
-# 🧠 AI & Marketing Tools
+# 🧰 Tools & Platforms I Work With
 
-ChatGPT • Claude • Gemini • Midjourney • Runway • ElevenLabs  
-GoHighLevel • Systeme.io • SmarterContact  
-Canva • Adobe Creative Cloud • Figma  
-Notion • Slack • Google Workspace  
-Zapier • Make • Automation tools
+## 🤖 AI & LLM Tools
+ChatGPT • Google Gemini • Perplexity • Microsoft Copilot • Sider • Hugging Face • Pinecone • Chatbase
+
+## ⚡ Automation & Workflow
+Zapier • Make (Integromat) • n8n • Glide
+
+## 🎨 Design & Creative Tools
+Canva • Adobe Creative Cloud • Microsoft Designer • Midjourney • BlueWillow • Recraft • Beautiful.ai
+
+## 🎬 AI Video & Media Tools
+Runway • D-ID • Opus Clip • ElevenLabs • Gamma
+
+## 🧠 Productivity & Workspace
+Notion • Google Docs • Google Sheets • Google Drive • Google Workspace
+
+## 🌐 Platforms & Ecosystems
+Google • Meta
+
+## 📱 Social Platforms
+LinkedIn • Instagram • Facebook • X (Twitter)
 
 ---
 
@@ -67,14 +82,6 @@ Small AI tools for marketers such as:
 - AI LinkedIn Post Generator
 - AI Content Calendar Generator
 - AI Marketing Prompt Library
-
----
-
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepraj0918&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepraj0918&layout=compact&theme=tokyonight)
 
 ---
 
