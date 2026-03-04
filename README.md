@@ -32,27 +32,45 @@ I love turning complex marketing problems into **simple automated systems that r
 # 🧰 Tools & Platforms I Work With
 
 ## 🤖 AI & LLM Tools
-ChatGPT • Google Gemini • Perplexity • Microsoft Copilot • Sider • Hugging Face • Pinecone • Chatbase
+ChatGPT • Google Gemini • Perplexity • Microsoft Copilot • Claude • Manus • Grok
 
 ## ⚡ Automation & Workflow
-Zapier • Make (Integromat) • n8n • Glide
+Zapier • Make (Integromat) • n8n 
 
 ## 🎨 Design & Creative Tools
-Canva • Adobe Creative Cloud • Microsoft Designer • Midjourney • BlueWillow • Recraft • Beautiful.ai
+Canva • Adobe Creative Cloud • Microsoft Designer • Midjourney 
 
 ## 🎬 AI Video & Media Tools
-Runway • D-ID • Opus Clip • ElevenLabs • Gamma
+Runway • Opus Clip • ElevenLabs • Gamma • Veo3 • Heygen 
 
 ## 🧠 Productivity & Workspace
 Notion • Google Docs • Google Sheets • Google Drive • Google Workspace
-
-## 🌐 Platforms & Ecosystems
-Google • Meta
 
 ## 📱 Social Platforms
 LinkedIn • Instagram • Facebook • X (Twitter)
 
 ---
+
+# 💰 SaaS Affiliate Programs
+
+I actively work with and promote SaaS platforms that help businesses automate marketing, generate leads, and scale their online presence.
+
+### 🚀 CRM & Marketing Automation
+- GoHighLevel
+- Systeme.io
+
+### 📲 Lead Generation & Outreach
+- SmarterContact
+
+### 🧠 AI & Marketing Tools
+- ElevenLabs
+- Synthesis AI
+
+### 📈 Focus Areas
+- SaaS affiliate growth strategies
+- AI-powered marketing automation
+- Lead generation funnels
+- Content-driven affiliate marketing
 
 # 💻 Tech Stack
 
