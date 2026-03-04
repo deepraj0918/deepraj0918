@@ -1,20 +1,96 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Building AI-driven systems for social media marketing, automation funnels, and high-converting lead generation campaigns.<br><br>👯 I’m looking to collaborate on<br>AI tools, marketing automation projects, SaaS growth strategies, and performance-driven digital campaigns.<br><br>🤝 I’m looking for help with<br>Scaling automated workflows, optimizing paid ads with AI, and building smarter content distribution systems.<br><br>🌱 I’m currently learning<br>Advanced AI workflows, prompt engineering, no-code automation, and growth systems for digital brands.<br><br>💬 Ask me about<br>Social media marketing, AI tools for marketers, automation funnels, affiliate marketing, and lead generation strategies.<br><br>⚡ Fun fact<br>I love turning complex marketing problems into simple automated systems that run on autopilot.
+# 🚀 Deepraj Gautam
+### AI Marketing • Automation Systems • Lead Generation
 
+Helping businesses grow with **AI-powered marketing, automation funnels, and scalable lead generation systems.**
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/deepraj28) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/pEU86BFs) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/deep0918) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/deepmarketing.ai/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/deepraj0918/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@deep.raj0918) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Deepraj-Gautam-5) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/deepraj0918) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@deep0918) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deep.raj0918@gmail.com) 
+I specialize in combining **AI tools + marketing automation** to create systems that generate **content, leads, and sales automatically.**
 
-# 💻 Tech Stack:
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) 
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=plastic&logo=Adobe%20Creative%20Cloud&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) 
+---
+
+# 💫 About Me
+
+🔭 I’m currently working on  
+Building AI-driven systems for social media marketing, automation funnels, and high-converting lead generation campaigns.
+
+👯 I’m looking to collaborate on  
+AI tools, marketing automation projects, SaaS growth strategies, and performance-driven digital campaigns.
+
+🤝 I’m looking for help with  
+Scaling automated workflows and building smarter AI marketing systems.
+
+🌱 I’m currently learning  
+Advanced AI workflows, prompt engineering, no-code automation, and growth systems for digital brands.
+
+💬 Ask me about  
+Social media marketing, AI tools for marketers, automation funnels, affiliate marketing, and lead generation strategies.
+
+⚡ Fun fact  
+I love turning complex marketing problems into **simple automated systems that run on autopilot.**
+
+---
+
+# 🧠 AI & Marketing Tools
+
+ChatGPT • Claude • Gemini • Midjourney • Runway • ElevenLabs  
+GoHighLevel • Systeme.io • SmarterContact  
+Canva • Adobe Creative Cloud • Figma  
+Notion • Slack • Google Workspace  
+Zapier • Make • Automation tools
+
+---
+
+# 💻 Tech Stack
+
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase)
+![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=plastic&logo=Adobe%20Creative%20Cloud&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=slack&logoColor=white)
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/deep.raj0918@gmail.com) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+# 🚀 What I Build
+
+### AI Content Systems
+Automated pipelines that turn AI news and insights into ready-to-publish social media content.
+
+### Marketing Automation Funnels
+Lead capture → automated nurturing → high-converting sales funnels.
+
+### SaaS Affiliate Growth Systems
+Content and automation strategies that generate recurring SaaS affiliate revenue.
+
+### AI Marketing Mini Apps
+Small AI tools for marketers such as:
+- AI LinkedIn Post Generator
+- AI Content Calendar Generator
+- AI Marketing Prompt Library
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepraj0918&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepraj0918&layout=compact&theme=tokyonight)
+
+---
+
+# 🌐 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/deepraj0918/)  
+[Instagram](https://www.instagram.com/deepmarketing.ai/)  
+[X](https://x.com/deepraj0918)  
+[Medium](https://medium.com/@deep.raj0918)  
+[YouTube](https://www.youtube.com/@deep0918)  
+Email: deep.raj0918@gmail.com
+
+---
+
+# ☕ Support My Work
+
+If you like my work, you can support me here:
+
+[PayPal](https://paypal.me/deep.raj0918)
