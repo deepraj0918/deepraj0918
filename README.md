@@ -1,62 +1,70 @@
 # Hi there 👋 I'm Deepraj Gautam
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=64BF05&width=435&lines=Nutrition+Coach;Fitness+Enthusiast;AI+Builder;Digital+Creator;Always+Learning+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=64BF05&width=500&lines=Social+Media+Marketer;AI+Implementation+Strategist;Growth+Systems+Builder;Digital+Creator;Always+Building+🚀" />
 
 ## 🚀 About Me
 
-I'm passionate about building things that improve people's lives through:
+I'm a Social Media Marketer and AI Implementation Strategist focused on helping brands and businesses grow using content, automation, and intelligent systems.
 
-🥗 Nutrition  
-💪 Fitness & Wellness  
-🤖 AI & Automation  
-📱 Digital Content & Social Media  
-🌱 Continuous learning
+I enjoy combining:
 
-Currently creating projects that combine health + technology + creativity.
+📈 Social Media Growth  
+🤖 AI Automation  
+🧠 Business Systems  
+🎯 Content Strategy  
+🚀 Digital Marketing
+
+I believe great marketing + smart systems create scalable growth.
 
 ---
 
 ## 🌱 Currently Working On
 
+- Building AI-powered growth systems
+- Creating automated marketing workflows
+- Scaling digital brands through content
+- Learning advanced AI implementation strategies
 - Building **Activrr**
-- Creating AI-powered systems
-- Learning advanced automation workflows
-- Building content systems for social media growth
 
 ---
 
-## 🛠 Tech & Tools
+## 🛠 Tools & Technologies
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-000?style=for-the-badge&logo=openai)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Meta Ads](https://img.shields.io/badge/Meta%20Ads-1877F2?style=for-the-badge&logo=facebook)
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=deepraj0918&show_icons=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=deepraj0918&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=deepraj0918&theme=dark)
-
----
-
-## 📈 Most Used Languages
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=deepraj0918&layout=compact&theme=dark)
+![](https://github-readme-streak-stats.herokuapp.com/?user=deepraj0918&theme=tokyonight)
 
 ---
 
-## 🤝 Let's Connect
+## 💡 What I Love Building
+
+✓ AI Agents  
+✓ Marketing Systems  
+✓ Social Media Funnels  
+✓ Content Automation  
+✓ Growth Strategies  
+
+---
+
+## 🤝 Connect With Me
   
-💼 LinkedIn: deepraj0918 
-📷 Instagram: deepraj0918
+💼 LinkedIn: https://www.linkedin.com/in/deepraj0918  
+📸 Instagram: https://www.instagram.com/in/deepraj0918  
 
 ---
 
 ## ⚡ Fun Fact
 
-I love combining technology + health + creativity into systems that create real impact 🌍
+I don't just create content. I build systems that make content work smarter.
