@@ -105,18 +105,6 @@ ChatGPT • Claude • HeyGen • Make • n8n • Canva • Perplexity
 
 ---
 
-## 🤝 Let's Connect
-
-📧 Email: your-email@example.com
-
-💼 LinkedIn: your-link
-
-📷 Instagram: your-link
-
-🌐 Portfolio: your-link
-
----
-
 ## ⚡ Fun Fact
 
 I don't just create content.
