@@ -75,36 +75,6 @@ My interests:
 
 ---
 
-## ⚡ My Workflow
-
-Research  
-⬇  
-Strategy  
-⬇  
-Content Creation  
-⬇  
-AI Automation  
-⬇  
-Distribution  
-⬇  
-Optimization
-
-Daily tools:
-
-ChatGPT • Claude • HeyGen • Make • n8n • Canva • Perplexity
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=deepraj0918&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=deepraj0918&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=deepraj0918&layout=compact&theme=tokyonight)
-
----
-
 ## ⚡ Fun Fact
 
 I don't just create content.
