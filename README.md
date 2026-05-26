@@ -75,10 +75,10 @@ My interests:
 
 ---
 
-## ⚡ Fun Fact
+## 🤝 Let's Connect
 
-I don't just create content.
+I'm interested in collaborating on AI systems, automation, growth marketing, and content ecosystems.
 
-I build systems that create, distribute, automate, and scale it.
+⭐ Feel free to connect and explore my projects.
 
-🚀
+Made with ❤️ by Deep
